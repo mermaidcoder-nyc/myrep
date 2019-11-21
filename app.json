@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "myRep",
+    "description": "Who Represents Me in Congress",
+    "slug": "my-rep-tabs",
+    "privacy": "unlisted",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#ffffff",
+    "icon": "./assets/myRep-1024.png",
+    "loading": {
+      "icon": "./assets/myRep-1024.png",
+      "hideExponentText": false
+    },
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "1",
+      "bundleIdentifier": "com.whorepresentsmeincongress.myRep"
+    }
+  }
+}
